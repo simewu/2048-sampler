@@ -4,4 +4,9 @@ It contains many features, such as automating games and guessing different patte
 
 ![](/screenshot.png)
 
-### This application is hosted at http://simewu.com/2048-sampler.
+### This application is hosted at
+https://simewu.github.io/2048-sampler
+
+and
+
+http://simewu.com/2048-sampler.
